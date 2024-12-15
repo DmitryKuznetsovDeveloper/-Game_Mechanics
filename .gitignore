@@ -47,6 +47,22 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Unity crash dumps
+CrashDump*.dmp
+
+# Custom logs
+*.log
+*.log.*
+
+# Odin Inspector
+/OdinInspector/
+
+# Amplify Shader Editor
+/AmplifyShaderEditor/
+
+# Rider/JetBrains plugins
+.idea/
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
